@@ -1,4 +1,4 @@
-package com.alfonsoftware.movies
+package com.alfonsoftware.movies.data.remote
 
 data class MovieResult(
     val page: Int,
